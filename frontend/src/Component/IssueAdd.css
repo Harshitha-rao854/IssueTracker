@@ -1,0 +1,17 @@
+
+.formTable{
+    border: 2px solid black;
+    margin: auto;
+    border-radius: 12px;
+    padding: 20px;
+}
+td{
+    font-weight: bold;
+}
+.submitbtn{
+    margin-top: 20px;
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+}
