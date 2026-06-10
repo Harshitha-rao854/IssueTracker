@@ -45,6 +45,7 @@ function IssueList(){
                 <div key={issue._id} className="issue-card">
                     <h3>{issue.title}</h3>
                     <p><strong>Description:</strong>{issue.description}</p>
+
                     <p><strong>Due:</strong>{issue.due}</p>
                     <p><strong>Owner:</strong>{issue.owner}</p>
                     <p><strong>Priority:</strong>{issue.priority}</p>
